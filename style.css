@@ -1,0 +1,29 @@
+h1 {
+  color: rgb(92, 182, 92);
+  font: bold;
+  font-size: 32px;
+  position: fixed;
+}
+pre {
+  font-style: italic;
+  font-size: 25px;
+  color: brown;
+  background-color: cyan;
+  text-align: center;
+}
+
+.box {
+  width: 20%;
+  height: 100%;
+  margin: 50px 20px;
+  padding: 50px;
+  background-color: cadetblue;
+  display: inline-block;
+}
+
+.explanation {
+  color: red;
+  text-align: center;
+  position: static;
+  right: 100px;
+}
